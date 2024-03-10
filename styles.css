@@ -1,0 +1,37 @@
+<DOCTYPE! html>
+  <html lang="en">
+
+    <head>
+      <meta charset="UTF-8">
+      <title>Service Review</title>
+      <link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body>
+
+      <h1>Coffee Matt</h1>
+      <p>Please Leave a Review!</p>
+
+      <form method="post" action='https://register-demo.freecodecamp.org'>
+      
+        <fieldset>
+          <label>First Name:<input type="text" required ></input>
+          </label>
+
+          <label>Last Name:<input type="text" required ></input>
+          </label>
+
+          <label>Email:<input type="email" required ></input>
+          </label>
+
+          <label>New Password:<input type="password" /></label>
+        </fieldset>
+
+        <fieldset>
+          <label><input /></label>
+        </fieldset>
+      </form>
+
+    </body>
+
+  </html>
